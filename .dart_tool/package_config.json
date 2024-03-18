@@ -950,13 +950,13 @@
       "languageVersion": "2.19"
     },
     {
-      "name": "Ace_flutter_project",
+      "name": "flutter_central_dependency",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2024-03-18T07:28:12.415715Z",
+  "generated": "2024-03-18T09:12:16.471563Z",
   "generator": "pub",
   "generatorVersion": "3.3.1"
 }
