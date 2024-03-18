@@ -72,14 +72,3 @@ dev_dependencies:
   test: ^1.24.9
   test_api: ^0.6.1
   vm_service: ^13.0.0
-
-flutter:
-  uses-material-design: true
-  assets:
-    - assets/images/
-    - assets/logos/
-    - assets/videos/
-    - assets/audios/
-    - assets/lottie_animations/
-    - assets/rive_animations/
-    - assets/pdfs/
