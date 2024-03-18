@@ -18,7 +18,7 @@ dependencies:
   collection: ^1.18.0
   equatable: ^2.0.3
   firebase_auth: ^4.17.9
-  firebase_core: ^2.25.4
+  firebase_core: ^2.27.1
   firebase_core_platform_interface: ^5.0.0
   firebase_core_web: ^2.11.4
   flutter:
