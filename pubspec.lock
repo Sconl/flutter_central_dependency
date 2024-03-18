@@ -424,14 +424,22 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "6.2.1"
+  google_identity_services_web:
+    dependency: transitive
+    description:
+      name: google_identity_services_web
+      sha256: "9482364c9f8b7bd36902572ebc3a7c2b5c8ee57a9c93e6eb5099c1a9ec5265d8"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.3.1+1"
   google_sign_in:
     dependency: "direct main"
     description:
       name: google_sign_in
-      sha256: "821f354c053d51a2d417b02d42532a19a6ea8057d2f9ebb8863c07d81c98aaf9"
+      sha256: "0b8787cb9c1a68ad398e8010e8c8766bfa33556d2ab97c439fb4137756d7308f"
       url: "https://pub.dev"
     source: hosted
-    version: "5.4.4"
+    version: "6.2.1"
   google_sign_in_android:
     dependency: transitive
     description:
@@ -460,10 +468,10 @@ packages:
     dependency: transitive
     description:
       name: google_sign_in_web
-      sha256: "75cc41ebc53b1756320ee14d9c3018ad3e6cea298147dbcd86e9d0c8d6720b40"
+      sha256: fc0f14ed45ea616a6cfb4d1c7534c2221b7092cc4f29a709f0c3053cc3e821bd
       url: "https://pub.dev"
     source: hosted
-    version: "0.10.2+1"
+    version: "0.12.4"
   graphs:
     dependency: transitive
     description:
@@ -521,7 +529,7 @@ packages:
     source: hosted
     version: "0.1.2"
   js:
-    dependency: transitive
+    dependency: "direct main"
     description:
       name: js
       sha256: f2c445dce49627136094980615a031419f7f3eb393237e4ecd97ac15dea343f3
@@ -593,7 +601,7 @@ packages:
     source: hosted
     version: "0.12.16+1"
   material_color_utilities:
-    dependency: transitive
+    dependency: "direct main"
     description:
       name: material_color_utilities
       sha256: "0e0a020085b65b6083975e499759762399b4475f766c21668c4ecca34ea74e5a"
@@ -617,7 +625,7 @@ packages:
     source: hosted
     version: "0.5.3"
   meta:
-    dependency: transitive
+    dependency: "direct main"
     description:
       name: meta
       sha256: d584fa6707a52763a52446f02cc621b077888fb63b93bbcb1143a7be5a0c0c04
@@ -1038,7 +1046,7 @@ packages:
     source: hosted
     version: "1.2.1"
   test:
-    dependency: transitive
+    dependency: "direct dev"
     description:
       name: test
       sha256: a1f7595805820fcc05e5c52e3a231aedd0b72972cb333e8c738a8b1239448b6f
@@ -1046,7 +1054,7 @@ packages:
     source: hosted
     version: "1.24.9"
   test_api:
-    dependency: transitive
+    dependency: "direct dev"
     description:
       name: test_api
       sha256: "5c2f730018264d276c20e4f1503fd1308dfbbae39ec8ee63c5236311ac06954b"
@@ -1182,7 +1190,7 @@ packages:
     source: hosted
     version: "2.1.4"
   vm_service:
-    dependency: transitive
+    dependency: "direct dev"
     description:
       name: vm_service
       sha256: b3d56ff4341b8f182b96aceb2fa20e3dcb336b9f867bc0eafc0de10f1048e957
@@ -1222,7 +1230,7 @@ packages:
     source: hosted
     version: "1.2.1"
   win32:
-    dependency: transitive
+    dependency: "direct main"
     description:
       name: win32
       sha256: "8cb58b45c47dcb42ab3651533626161d6b67a2921917d8d429791f76972b3480"

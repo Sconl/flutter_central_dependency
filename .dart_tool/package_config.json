@@ -326,10 +326,16 @@
       "languageVersion": "2.14"
     },
     {
-      "name": "google_sign_in",
-      "rootUri": "file:///C:/Users/ACE%20DESIGN%20STUDIO/AppData/Local/Pub/Cache/hosted/pub.dev/google_sign_in-5.4.4",
+      "name": "google_identity_services_web",
+      "rootUri": "file:///C:/Users/ACE%20DESIGN%20STUDIO/AppData/Local/Pub/Cache/hosted/pub.dev/google_identity_services_web-0.3.1+1",
       "packageUri": "lib/",
-      "languageVersion": "2.14"
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "google_sign_in",
+      "rootUri": "file:///C:/Users/ACE%20DESIGN%20STUDIO/AppData/Local/Pub/Cache/hosted/pub.dev/google_sign_in-6.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
     },
     {
       "name": "google_sign_in_android",
@@ -351,9 +357,9 @@
     },
     {
       "name": "google_sign_in_web",
-      "rootUri": "file:///C:/Users/ACE%20DESIGN%20STUDIO/AppData/Local/Pub/Cache/hosted/pub.dev/google_sign_in_web-0.10.2+1",
+      "rootUri": "file:///C:/Users/ACE%20DESIGN%20STUDIO/AppData/Local/Pub/Cache/hosted/pub.dev/google_sign_in_web-0.12.4",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "3.3"
     },
     {
       "name": "graphs",
@@ -956,7 +962,7 @@
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2024-03-18T09:12:16.471563Z",
+  "generated": "2024-03-18T15:12:10.304668Z",
   "generator": "pub",
   "generatorVersion": "3.3.1"
 }
