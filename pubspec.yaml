@@ -20,7 +20,7 @@ dependencies:
   firebase_auth: ^4.17.9
   firebase_core: ^2.27.1
   firebase_core_platform_interface: ^5.0.0
-  firebase_core_web: ^2.11.4
+  firebase_core_web: ^2.12.0
   flutter:
     sdk: flutter
   flutter_animate: ^4.5.0
@@ -33,7 +33,7 @@ dependencies:
   google_fonts: ^6.2.1
   google_sign_in: ^6.2.1
   intl: ^0.19.0
-  js: ^0.7.1
+  js: ^0.6.3
   json_path: ^0.7.1
   lottie: ^3.1.0
   material_color_utilities: ^0.8.0
