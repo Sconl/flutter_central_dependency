@@ -47,6 +47,9 @@ dependencies:
   plugin_platform_interface: ^2.1.8
   provider: ^6.1.2
   rive: ^0.13.1
+  shape_clipper:
+    git:
+      url: git@github.com:Sconl/shape_clipper.git
   shared_preferences: ^2.2.2
   shared_preferences_android: ^2.2.1
   shared_preferences_foundation: ^2.3.5
