@@ -16,6 +16,9 @@ dependencies:
   cloud_firestore_platform_interface: ^6.1.6
   cloud_firestore_web: ^3.10.5
   collection: ^1.18.0
+  custom_appbar:
+    git:
+      url: git@github.com:Sconl/custom_appbar.git
   equatable: ^2.0.3
   firebase_auth: ^4.17.9
   firebase_core: ^2.27.1
