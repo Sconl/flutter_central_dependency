@@ -201,6 +201,15 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "3.0.3"
+  custom_appbar:
+    dependency: "direct main"
+    description:
+      path: "."
+      ref: HEAD
+      resolved-ref: c730405ac38da70b19011da7be91fc822f2010b7
+      url: "git@github.com:Sconl/custom_appbar.git"
+    source: git
+    version: "1.0.0+1"
   diff_match_patch:
     dependency: transitive
     description:
