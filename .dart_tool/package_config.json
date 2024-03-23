@@ -152,12 +152,6 @@
       "languageVersion": "2.19"
     },
     {
-      "name": "custom_appbar",
-      "rootUri": "file:///C:/Users/ACE%20DESIGN%20STUDIO/AppData/Local/Pub/Cache/git/custom_appbar-8abde24d0283066b4dc578b3ecd700f1eac209ac/",
-      "packageUri": "lib/",
-      "languageVersion": "3.3"
-    },
-    {
       "name": "diff_match_patch",
       "rootUri": "file:///C:/Users/ACE%20DESIGN%20STUDIO/AppData/Local/Pub/Cache/hosted/pub.dev/diff_match_patch-0.4.1",
       "packageUri": "lib/",
@@ -974,7 +968,7 @@
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2024-03-23T05:05:42.180983Z",
+  "generated": "2024-03-23T05:16:45.171693Z",
   "generator": "pub",
   "generatorVersion": "3.3.1"
 }
