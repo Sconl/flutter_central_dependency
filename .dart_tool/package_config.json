@@ -290,6 +290,12 @@
       "languageVersion": "3.2"
     },
     {
+      "name": "flutter_timeline",
+      "rootUri": "file:///C:/Users/ACE%20DESIGN%20STUDIO/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_timeline-0.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "flutter_web_plugins",
       "rootUri": "file:///C:/src/flutter/packages/flutter_web_plugins",
       "packageUri": "lib/",
@@ -830,6 +836,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "timeline_tile",
+      "rootUri": "file:///C:/Users/ACE%20DESIGN%20STUDIO/AppData/Local/Pub/Cache/hosted/pub.dev/timeline_tile-2.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "typed_data",
       "rootUri": "file:///C:/Users/ACE%20DESIGN%20STUDIO/AppData/Local/Pub/Cache/hosted/pub.dev/typed_data-1.3.2",
       "packageUri": "lib/",
@@ -974,7 +986,7 @@
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2024-03-23T05:20:35.412795Z",
+  "generated": "2024-03-24T14:36:45.745672Z",
   "generator": "pub",
   "generatorVersion": "3.3.1"
 }

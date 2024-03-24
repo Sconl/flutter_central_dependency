@@ -30,6 +30,7 @@ dependencies:
   flutter_bloc: ^8.0.0
   flutter_cache_manager: ^3.3.1
   flutter_svg: ^2.0.10+1
+  flutter_timeline: ^0.3.0
   font_awesome_flutter: ^10.7.0
   from_css_color: ^2.0.0
   go_router: ^13.2.1
@@ -62,6 +63,7 @@ dependencies:
   sqflite: ^2.3.2
   stream_transform: ^2.1.0
   timeago: ^3.6.1
+  timeline_tile: ^2.0.0
   url_launcher: ^6.2.5
   url_launcher_android: ^6.3.0
   url_launcher_ios: ^6.2.5
